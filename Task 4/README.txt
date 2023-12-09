@@ -8,7 +8,9 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1XtSiWXRUtgnS_zE7JcpwLGMfVILv-VKz/edit?usp=drive_link&ouid=101069727926731079913&rtpof=true&sd=true
 
 Project title:
-Early Detection of Parkinson's Disease Using Deep Learning
+Explainable Prediction of Parkinson’s Disease from
+Resting-State Functional MRI Using Hybrid 3D
+CNN-LSTM Model
 
 Group Number:
 17
