@@ -6,15 +6,15 @@ ST & RA can see the latest update , access are given through mail.
 
 
 Link to unlisted YouTube video:
-
+https://youtu.be/M-b8sz__eLQ?si=RWPRg3Qqvs0jhvHO
 
 Public link to the slide (Anyone on the internet can view without login):
-
+https://docs.google.com/presentation/d/1u5flWJZu1eqDWrCHYSh9u64ZABIWPg-s/edit?usp=drive_link&ouid=101069727926731079913&rtpof=true&sd=true
 
 Project title:
-Explainable Prediction of Parkinson’s Disease from
-Resting-State Functional MRI Using Hybrid 3D
-CNN-LSTM Model
+Parkinson’s Disease Prediction from 
+Resting-State Functional MRI 
+Using Hybrid 3D CNN-LSTM Model
 
 Group Number:
 17
@@ -25,4 +25,4 @@ Group Members:
 23273003  Mitheela Das Armisha
 23273004  Sakib Rokoni
 
-We are Working on Task 5
+We also correctly have uploaded Slide.PPT here
